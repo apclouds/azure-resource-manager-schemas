@@ -27,7 +27,7 @@ This table specifies what GitHub handle our bot is currently configured to notif
 | RP:DBforPostgreSQL         | rachel-msft                       |
 | RP:EventGrid               | jfggdl                            |
 | RP:EventHub                | jfggdl                            |
-| RP:KeyVault                | randalllilama, schaabs            |
+| RP:KeyVault                | jlichwa, ashokcMSFT               |
 | RP:Logic                   | logicappspm                       |
 | RP:Media                   | akucer                            |
 | RP:Network                 | aznetsuppgithub                   |
